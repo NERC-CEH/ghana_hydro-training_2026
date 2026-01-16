@@ -41,12 +41,13 @@ This series of different interactive workshops is designed to introduce particip
 ### Agenda
 | | Day 1: 27 January 2026 <br> Theme: Hydrological Datasets </br> | Day 2: 28 January 2026 <br> Theme: Water Resources Modelling </br> | Day 3: 29 January 2026 <br> Theme: Seasonal Forecast Applications </br> |
 | --- | --- | --- | --- |
+| 08:30 - 09:00 | Registration | --- | --- |
 | 09:00 - 10:00 | Welcome & Introduction | Talk: Introduction to Machine Learning (ML) based modelling | Talk: Introduction to Applications |
-| 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling | Workshop: Running a Hydrological Model |
+| 10:00 - 11:00 | Hands-on: Computing setup and testing | Workshop: ML-based water resource modelling training and prediction | Workshop: Running a Hydrological Model |
 | 11:00 - 11:30 | BREAK | BREAK | BREAK |
-| 11:30 - 13:00 | Workshop: Remote data access | Workshop: Continued | Workshop: Running Ensemble Streamflow Prediction |
+| 11:30 - 13:00 | Workshop: Remote data access | Workshop: Explore feature selection/hyper parameter tuning | Workshop: Running Ensemble Streamflow Prediction |
 | 13:00 - 14:00 | LUNCH | LUNCH | LUNCH |
-| 14:00 - 15:30 | Workshop: Data analysis and visualisation | Workshop:  Continued | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
+| 14:00 - 15:30 | Workshop: Data analysis and visualisation | Workshop:  ML exploration (different models, ensemble forecasting and different reservoirs) | Workshop: Categorizing a Forecast Product for Enhanced Decision Making |
 | 15:30 - 16:00 | BREAK | BREAK | BREAK |
 | 16:00 - 17:00 | Q/A | Q/A | Q/A |
 | 18:00 - 21:00 | Free evening | DINNER | Free evening |
