@@ -87,6 +87,7 @@ Here is the link to ???.
 If you have any questions or need assistance with the workshops, please feel free to get in touch with us:
 
 > [National Capability for Global Challenges Team](mailto:NC-international@ceh.ac.uk)
+> [UKCEH West Africa Office](westafrica@ceh.ac.uk)
 
 
 ---
