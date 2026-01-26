@@ -58,18 +58,18 @@ This series of interactive, hands-on workshops is designed to introduce particip
 ### Theme 1: Hydrological Datasets
 **Facilitators:** *Eugene Magee | Amulya Chevuturi*
 
-Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers. Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis. Here is the link to ???.
+Follow-along session on accessing and retrieving remote hydrological datasets using Python, including common tools and protocols for working with data hosted on public or institutional servers. Hands-on session on exploring different types of hydroclimate datasets, including basic techniques for processing, visualisation, and analysis.
 
 ### Theme 2: Water Resource Modelling
 **Facilitators:** *Helen Baron | Nathan Rickards*
 
-An introduction to reservoir storage forecasting, with a hands-on application of machine learning using a tree-based data-driven approach. Data selection, feature engineering and selection, hyper parameter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly to seasonal timestep. Here is the link to ???.
+An introduction to reservoir storage forecasting, with a hands-on application of machine learning using a tree-based data-driven approach. Data selection, feature engineering and selection, hyper parameter tuning and model evaluation will all be explored in the context of building a robust machine learning tool to help forecast reservoir storage at a monthly to seasonal timestep.
 
 
 ### Theme 3: Seasonal Forecast Applications
 **Facilitators:** *Eugene Magee | Ezra Kitson | Lucy Barker*
 
-This day provides R workbooks that introduce participants to running a lumped catchment hydrological model, using it to generate simple sub-seasonal to seasonal forecasts, and visualising forecast outputs. The first session introduces participants to the GR6J hydrological model, calibrating and running it with rainfall and potential evapotranspiration inputs. The second session then applies that calibrated model to "Ensemble Streamflow Prediction" forecasting, and the third session formats the forecast outputs into graphics suitable for decision making. Here is the link to ???.
+This day provides R workbooks that introduce participants to running a lumped catchment hydrological model, using it to generate simple sub-seasonal to seasonal forecasts, and visualising forecast outputs. The first session introduces participants to the GR6J hydrological model, calibrating and running it with rainfall and potential evapotranspiration inputs. The second session then applies that calibrated model to "Ensemble Streamflow Prediction" forecasting, and the third session formats the forecast outputs into graphics suitable for decision making.
 
 ---
 
